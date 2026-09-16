@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+python-multipart
+slowapi
+httpx
+pytest
+pytest-cov
